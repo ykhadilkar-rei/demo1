@@ -58,3 +58,4 @@ $ mvn clean fabric8:deploy -Popenshift
 
 == More Information
 You can learn more about this booster and rest of the Spring Boot runtime in the link:http://appdev.openshift.io/docs/spring-boot-runtime.html[Spring Boot Runtime Guide].
+
